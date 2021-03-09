@@ -46,7 +46,8 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Felipegth&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Felipegth&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipegth&hide_border=true&layout=compact" align="left" />
@@ -55,7 +56,7 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Felipegth&&style=flat-square" align="center" />
+ <img src="https://komarev.com/ghpvc/?username=Felipegth&&style=flat-square" align="center" />
 </div>  
   
 <br/>  
