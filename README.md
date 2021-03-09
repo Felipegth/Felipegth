@@ -20,13 +20,7 @@
   
 - ❓ Ask me about anything related  
   
-
 <br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 ### Tools
 <div align="center">  
