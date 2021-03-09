@@ -27,7 +27,6 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
 <br/>  
 
 ## Tools 
-<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
