@@ -13,6 +13,10 @@
   
 ### <div align="center">I'm Felipe Rodrigues, a full-time full-stack freelance developer 👨‍💻 working remotely since January 2021 🚀</div>  
   
+### About
+
+Currently I work with Web and Mobile systems development, working with frontend and backend, 
+my main focus is .NET Core using C #, for future studies I will work with Xamarim.
 
 - 🔭 I’m currently working on company Talk and Live.  
   
