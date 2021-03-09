@@ -2,8 +2,7 @@
 
 ### Hey 👋, I'm Felipe Rodrigues  
 <div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Felipe Rodrigues, a full-time full-stack freelance developer 👨‍💻 working remotely since January 2021 🚀</div>  
