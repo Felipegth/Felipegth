@@ -9,11 +9,13 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
-  
+### About
+
+Currently I work with Web and Mobile systems development, working with frontend and backend, my main focus is .NET Core using C #, 
+for future studies I will work with Xamarim.  
 
 ### <div align="center">I'm Felipe Rodrigues, a full-time full-stack freelance developer 👨‍💻 working remotely since January 2021 🚀</div>  
   
-
 - 🔭 I’m currently working on company Talk and Live  
   
 - 🌱 I’m currently learning C # .NET, JavaScript and Xamarin.  
