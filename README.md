@@ -59,11 +59,9 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
  
 <br/>  
 
-<div align="center">
+<div align="left">
  <img src="https://komarev.com/ghpvc/?username=Felipegth&&style=flat-square" align="center" />
 </div>  
-  
-<br/>  
+   
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> 
+
