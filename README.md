@@ -35,8 +35,14 @@ ________________________________________________________________________________
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Felipegth&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipegth&hide_border=true&layout=compact" align="left" />  
-
+<table>
+    <tr>
+        <td valign="top" width="50%">
+        <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Felipegth&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  <table>
+    <tr>
+        <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipegth&hide_border=true&layout=compact" align="left" />  
+     </td>
+    </tr>
+</table>  
 <br/>  
