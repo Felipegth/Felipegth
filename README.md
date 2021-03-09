@@ -46,4 +46,9 @@ ________________________________________________________________________________
     </tr>
 </table>  
 <br/>  
+          
+<table>
+    <tr>         
 ![Profile views counter](https://komarev.com/ghpvc/?username=Felipegth&&style=flat-square)
+    </tr>
+</table>  
