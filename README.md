@@ -24,8 +24,6 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
   
 - ❓ Ask me about anything related.  
   
-<br/>  
-
 ## Tools 
 
 <div align="left">  
@@ -40,8 +38,6 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
 </div>
 
 </td></tr></table>  
-
-<br/>  
 
 ## Github Stats  
 <table>
