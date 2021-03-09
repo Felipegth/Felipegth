@@ -28,17 +28,12 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
 
 ## Tools 
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" 
-     alt="JavaScript" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" 
-     alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" 
-     alt="Linux" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" 
-     alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" 
-     alt=".Net Core" height="50" />   
+<div align="left">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />   
 </div>
 
 </td><td valign="top" width="33%">
