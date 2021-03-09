@@ -38,21 +38,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 
-
-</td><td valign="top" width="33%">
-
-
-## Connect with me  
- 
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Felipegth&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
