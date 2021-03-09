@@ -43,8 +43,6 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
 
 <br/>  
 
-<br/>  
-
 ## Github Stats  
 <table>
     <tr>
@@ -57,11 +55,7 @@ my main focus is .NET Core using C #, for future studies I will work with Xamari
     </tr>
 </table>  
  
-<br/>  
-
 <div align="left">
  <img src="https://komarev.com/ghpvc/?username=Felipegth&&style=flat-square" align="center" />
 </div>  
    
-
-
