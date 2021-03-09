@@ -46,4 +46,4 @@ ________________________________________________________________________________
     </tr>
 </table>  
 <br/>  
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Profile views counter](https://komarev.com/ghpvc/?username=Felipegth&&style=flat-square)
