@@ -1,54 +1,101 @@
+<div align="center">
+<img src="" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Felipe Rodrigues, a full-time full-stack freelance developer 👨‍💻 working remotely since January 2021 🚀</div>  
+  
+
+- 🔭 I’m currently working on company Talk and Live.  
+  
+
+- 🌱 I’m currently learning C # .NET, JavaScript and Xamarin.  
+  
+
+- ❓ Ask me about anything related.  
+  
+
+<br/>  
 
 
-### Hey 👋, I'm Felipe Rodrigues  
-______________________________________________________________________________________________________________________________________________
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
 <a href="https://github.com/Felipegth" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/felipe-rodrigues-399b26a5/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+</div>  
+  
 
-### About
-
-Currently I work with Web and Mobile systems development, working with frontend and backend, my main focus is .NET Core using C #, 
-for future studies I will work with Xamarim.  
-______________________________________________________________________________________________________________________________________________
-### <div align="center">I'm Felipe Rodrigues, a full-time full-stack freelance developer 👨‍💻 working remotely since January 2021 🚀</div>  
-  
-- 🔭 I’m currently working on company Talk and Live  
-  
-- 🌱 I’m currently learning C # .NET, JavaScript and Xamarin.  
-  
-- ❓ Ask me about anything related  
-  
 <br/>  
 
-### Tools
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
 
 ## Github Stats  
-<table>
-    <tr>
-        <td valign="top" width="50%">
-        <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Felipegth&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  <table>
-    <tr>
-        <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipegth&hide_border=true&layout=compact" align="left" />  
-     </td>
-    </tr>
-</table>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Felipegth&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 <br/>  
-          
-<table>
-    <tr>         
-![Profile views counter](https://komarev.com/ghpvc/?username=Felipegth&&style=flat-square)
-    </tr>
-</table>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Felipegth&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>e>  
