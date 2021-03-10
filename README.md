@@ -16,7 +16,7 @@
 ### About
 
 Currently I work with Web and Mobile systems development, working with frontend and backend, 
-my main focus is .NET Core using C #, for future studies I will work with Xamarim.
+my main focus is .NET Core using C #, for future studies I will work with Xamarin.
 
 - 🔭 I’m currently working on company Talk and Live.  
   
