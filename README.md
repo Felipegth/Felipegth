@@ -17,8 +17,7 @@ alt=linkedin style="margin-bottom: 5px;" />
   
 ### About
 
-Currently I work with Web and Mobile systems development, working with frontend and backend, 
-my main focus is .NET Core using C #, for future studies I will work with Xamarin.
+Currently I work with development and research of Web and Mobile systems, working with frontend and backend, my main focus on API's development in .NET Core using C#, CSS, JavaScript, React Native and Typescript language.
 
 - 🔭 I’m currently working on company Talk and Live.  
   
