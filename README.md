@@ -17,7 +17,7 @@ alt=linkedin style="margin-bottom: 5px;" />
   
 ### About
 
-Currently I work with development and research of Web and Mobile systems, working with frontend and backend, my main focus on API's development in .NET Core using C#, CSS, JavaScript, React Native and Typescript language.
+Currently I work with development and research of Web and Mobile systems, working with frontend and backend, my main focus on API's development in .NET Core using C#, CSS, JavaScript, React Native and Typescript.
 
 - 🔭 I’m currently working on company Talk and Live.  
   
